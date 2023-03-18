@@ -12,4 +12,4 @@
 8. Endlich neue Sirenen
 9. Man kann nun mit F10, Polizei Lautsprecher aktivieren (Z.B. "Pull over now...")
 10. Onesync umgestellt das hoffentlich der Desync nun verschwunden ist.
-11. Und noch ein paar Bug Fixes. **
+11. Und noch ein paar Bug Fixes. ** 
